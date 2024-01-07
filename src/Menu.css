@@ -1,0 +1,19 @@
+.menu{
+    display:flex;
+    padding: 10px;
+    color:black;
+    gap: 50px;
+    list-style: none;
+    width: 600px;
+    align-content: center;
+    margin: auto;
+    
+}
+.menu li{
+    background-color: crimson;
+    color: wheat;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50px;
+    font-weight: bold;
+}

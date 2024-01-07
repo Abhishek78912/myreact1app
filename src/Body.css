@@ -1,0 +1,14 @@
+.body{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+   
+    
+}
+
+.box{
+    border: 1px solid black;
+    height: auto;
+    background-color: blueviolet;
+    color:aliceblue;
+    padding: 20px;
+}
